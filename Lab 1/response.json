@@ -1,0 +1,16 @@
+{
+  "predictions": {
+    "DecisionTree": [
+      1
+    ],
+    "GradientBoosting": [
+      0
+    ],
+    "LogisticRegression": [
+      1
+    ],
+    "RandomForest": [
+      0
+    ]
+  }
+}
